@@ -17,9 +17,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Boomiga_?theme=dark&font=Marcellus&ext=contest)
 ### 💻 HackerRank Achievements
 
-[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-★★★☆☆-brightgreen)] </br>
-[![Java](https://img.shields.io/badge/Java-★★★☆☆-blue)]  </br>
-[![SQL](https://img.shields.io/badge/SQL-★☆☆☆☆-yellow)]
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-★★★☆☆-brightgreen) </br>
+![Java](https://img.shields.io/badge/Java-★★★☆☆-blue)  </br>
+![SQL](https://img.shields.io/badge/SQL-★☆☆☆☆-yellow)
 
 ## 🌍 Connect with Me
 <p align="center">
