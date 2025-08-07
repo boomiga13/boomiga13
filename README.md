@@ -1,10 +1,10 @@
 ## Hi there 👋 It's me Boomiga
 
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">               
-🎓 I'm a Computer Science student   
-💻 Passionate about coding and building projects 
-🌱 I’m currently learning and Teaching DSA and Java
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">     <br>          
+🎓 I'm a Computer Science student   <br>
+💻 Passionate about coding and building projects  <br>
+🌱 I’m currently learning and Teaching DSA and Java 
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
@@ -17,8 +17,8 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Boomiga_?theme=dark&font=Marcellus&ext=contest)
 ### 💻 HackerRank Achievements
 
-[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-★★★☆☆-brightgreen)]
-[![Java](https://img.shields.io/badge/Java-★★★☆☆-blue)]
+[![Problem Solving](https://img.shields.io/badge/Problem%20Solving-★★★☆☆-brightgreen)] <br>
+[![Java](https://img.shields.io/badge/Java-★★★☆☆-blue)]  <br>
 [![SQL](https://img.shields.io/badge/SQL-★☆☆☆☆-yellow)]
 
 ## 🌍 Connect with Me
