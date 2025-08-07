@@ -1,7 +1,8 @@
 ## Hi there 👋 It's me Boomiga
 
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">               🎓 I'm a Computer Science student   
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">               
+🎓 I'm a Computer Science student   
 💻 Passionate about coding and building projects 
 🌱 I’m currently learning and Teaching DSA and Java
 
@@ -26,8 +27,9 @@
   <a href="boomigaboomiga246@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Boomiga_/"><img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   <a href="https://github.com/boomiga13"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+   <a href="https://www.hackerrank.com/profile/boomigaboomiga21"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 </p>
-<a href="https://github.com/boomiga13"><img src="https://icons8.com/icon/OUPsEPLKIebZ/hackerrank"/></a>
-</p>
+
+
 
 
